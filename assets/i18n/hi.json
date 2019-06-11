@@ -1,0 +1,69 @@
+{
+    "login":{
+        "title":"लॉग",
+        "usrnam":"उपयोगकर्ता नाम",
+        "pwd":"पारण शब्द",
+        "newusr":"नया उपयोगकर्ता?",
+        "fgtpwd":"पासवर्ड भूल गए?",
+        "btn":{
+            "submit":"लॉग"
+        }
+    },
+    "common":{
+        "english":"English",
+        "hindi":"हिंदी",
+        "lang":"भाषा",
+        "chooselang":"भाषा चुनें",
+        "account":"लेखा",
+        "changepass":"पासवर्ड बदलें",
+        "logout":"लोग आउट"
+    },
+    
+    "menu":{
+        "dashboard":"डैशबोर्ड",
+        "myhome":"मेरा घर",
+        "myaccounts":"मेरा खाता",
+        "fundtransfer":"फंड ट्रांसफर",
+        "services":"सेवाएं",
+        "aboutme":"मेरे बारे में",
+        "updateprofile":"प्रोफ़ाइल अपडेट करें",
+        "secinfo":"सुरक्षा जानकारी",
+        "conffavour":"पसंदीदा कॉन्फ़िगर करें",
+        "confsecureaccess":"सुरक्षित पहुंच कॉन्फ़िगर करें",
+        "acnlist":"खाता सूची",
+        "closedacnlist":"बंद खाता सूची",
+        "accountnick":"खाता निक नाम",
+        "txnenquiry":"लेनदेन पूछताछ",
+        "acctstmt":"खाता विवरण",
+        "opendeposit":"खुली जमा",
+        "deppreclosure":"जमा पूर्व बंद करें",
+        "fdmatinst":"एफडी परिपक्वता निर्देश",
+        "nomdet":"नामांकित विवरण",
+        "ownacct":"अपना खाता स्थानांतरण",
+        "withinbank":"बैंक हस्तांतरण के भीतर",
+        "otherbank":"ओथ बैंक स्थानांतरण",
+        "quickpay":"शीघ्र भुगतान",
+        "imps":"आईएमपीएस स्थानांतरण",
+        "benfdet":"लाभार्थी जोड़ें / संशोधित करें",
+        "simaint":"एसआई रखरखाव",
+        "favtr":"पसंदीदा लेनदेन",
+        "chqservice":"सेवा की जांच करें",
+        "cardservices":"कार्ड सेवाएं",
+        "certificates":"प्रमाण पत्र",
+        "estmt":"ई बयान",
+        "mblbank":"मोबाइल बैंकिंग",
+        "investments":"मेरे निवेश",
+        "shortterm":"लघु अवधि",
+        "longterm":"दीर्घावधि"
+    },
+    "lastlogin":{
+        "title":"अंतिम लॉगिन विवरण"
+    },
+    "errors":{
+        "login":{
+            "invaliduser":"अमान्य प्रयोक्ता आईडी या पासवर्ड!",
+            "maxattempts":"लॉगिन विफलता - अधिक से अधिक प्रयास",
+            "blocked":"लॉगिन विफलता - उपयोगकर्ता आईडी अवरुद्ध है"
+        }
+    }
+}
